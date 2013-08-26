@@ -1,0 +1,7 @@
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\Option\bin\Debug\Option.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\Option\bin\Debug\Option.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\Option\bin\Debug\SpecialFunctions.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\Option\bin\Debug\SpecialFunctions.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\Option\obj\Debug\Computation.csprojResolveAssemblyReference.cache
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\Option\obj\Debug\Option.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\Option\obj\Debug\Option.pdb

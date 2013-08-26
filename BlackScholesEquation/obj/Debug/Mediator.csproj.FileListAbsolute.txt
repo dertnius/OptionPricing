@@ -1,0 +1,9 @@
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\BlackScholesEquation\bin\Debug\BlackScholesEquation.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\BlackScholesEquation\bin\Debug\BlackScholesEquation.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\BlackScholesEquation\bin\Debug\Option.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\BlackScholesEquation\bin\Debug\SpecialFunctions.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\BlackScholesEquation\bin\Debug\Option.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\BlackScholesEquation\bin\Debug\SpecialFunctions.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\BlackScholesEquation\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\BlackScholesEquation\obj\Debug\BlackScholesEquation.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\BlackScholesEquation\obj\Debug\BlackScholesEquation.pdb

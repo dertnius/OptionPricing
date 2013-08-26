@@ -1,0 +1,12 @@
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\bin\Debug\OptionPricingAppConsole.exe.config
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\bin\Debug\OptionPricingAppConsole.exe
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\bin\Debug\OptionPricingAppConsole.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\bin\Debug\BlackScholesEquation.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\bin\Debug\Option.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\bin\Debug\SpecialFunctions.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\bin\Debug\BlackScholesEquation.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\bin\Debug\Option.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\bin\Debug\SpecialFunctions.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\obj\Debug\OptionPricingAppConsole.csprojResolveAssemblyReference.cache
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\obj\Debug\OptionPricingAppConsole.exe
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\OptionPricingAppConsole\obj\Debug\OptionPricingAppConsole.pdb
