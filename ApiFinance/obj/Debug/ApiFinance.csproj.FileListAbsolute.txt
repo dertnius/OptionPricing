@@ -1,0 +1,5 @@
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\ApiFinance\obj\Debug\ApiFinance.csprojResolveAssemblyReference.cache
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\ApiFinance\bin\Debug\ApiFinance.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\ApiFinance\bin\Debug\ApiFinance.pdb
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\ApiFinance\obj\Debug\ApiFinance.dll
+C:\Users\Nielfheim\Documents\Visual Studio 2012\Projects\Finances\BlackScholesEquation\ApiFinance\obj\Debug\ApiFinance.pdb
